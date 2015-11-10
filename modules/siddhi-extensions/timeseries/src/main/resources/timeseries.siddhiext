@@ -15,12 +15,3 @@
 #
 
 regress=org.wso2.siddhi.extension.timeseries.LinearRegressionStreamProcessor
-min=org.wso2.siddhi.extension.timeseries.extrema.MinFunctionExtension
-max=org.wso2.siddhi.extension.timeseries.extrema.MaxFunctionExtension
-kernelMin=org.wso2.siddhi.extension.timeseries.extrema.KernelMinWindowExtension
-kernelMax=org.wso2.siddhi.extension.timeseries.extrema.KernelMaxWindowExtension
-ruleMax=org.wso2.siddhi.extension.timeseries.extrema.RuleBasedMaxWindowExtension
-ruleMin=org.wso2.siddhi.extension.timeseries.extrema.RuleBasedMinWindowExtension
-kalmanMin=org.wso2.siddhi.extension.timeseries.extrema.KalmanMinWindowExtension
-kalmanMax=org.wso2.siddhi.extension.timeseries.extrema.KalmanMaxWindowExtension
-kernelMinMax=org.wso2.siddhi.extension.timeseries.extrema.KernelMinMaxStreamProcessor
